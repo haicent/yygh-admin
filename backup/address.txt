@@ -1,0 +1,12 @@
+zookeep-4xuj4v-zookeeper.his 2181 2888 3888
+his-sentinel.his 8080
+mongodb.his 27017
+his-nacos.his 8848
+rabbitm-7i1rwj-rabbitmq.his 5672 15672
+his-es.his 9200 9300
+his-redis.his 6379
+his-mysql.his 3306
+server-gateway.his 31821
+
+site: http://192.168.122.10:32070
+admin: http://192.168.122.10:32248
